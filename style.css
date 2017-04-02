@@ -148,9 +148,9 @@ li a {
     /* Add a top margin to avoid content overlay */
 }
 
-* {
+/* * {
     outline: 1px solid red !important;
-}
+} */
 
 * {
     -webkit-box-sizing: border-box;
