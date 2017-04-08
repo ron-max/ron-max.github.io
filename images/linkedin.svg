@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="64pt" viewBox="0 0 64 64" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L64.72 0 L64.72 64 L0 64 L0 0 Z" transform="translate(0, 0)"/>
+  </clipPath>
+  <clipPath id="Clip1">
+   <path d="M0 0 L64.72 0 L64.72 64 L0 64 L0 0 Z" transform="translate(0, 0)"/>
+  </clipPath>
+  <clipPath id="Clip2">
+   <path d="M0 0 L64.72 0 L64.72 64 L0 64 L0 0 Z" transform="translate(0, 0)"/>
+  </clipPath>
+  <clipPath id="Clip3">
+   <path d="M0 0 L64.72 0 L64.72 64 L0 64 L0 0 Z" transform="translate(0, 0)"/>
+  </clipPath>
+ </defs>
+ <g id="Background">
+  <g id="Capa_1" clip-path="url(#Clip0)">
+   <g id="Group3" clip-path="url(#Clip1)">
+    <g id="Group2" clip-path="url(#Clip2)">
+     <g id="Group1" clip-path="url(#Clip3)">
+      <path style="fill:#161413; fill-rule:nonzero;stroke:none;" d="M9.91551 0 C7.14563 0 5.90864 1.50552 5.2165 2.56247 L5.2165 0.366068 L0 0.366068 C0.0677806 1.82003 0 15.8866 0 15.8866 L5.2165 15.8866 L5.2165 7.21566 C5.2165 6.75292 5.24648 6.2876 5.38725 5.95634 C5.76526 5.02828 6.62294 4.06799 8.06458 4.06799 C9.95201 4.06799 10.7067 5.49102 10.7067 7.57915 L10.7067 15.8827 L15.9232 15.8827 L15.9245 15.8827 L15.9245 6.98236 C15.9219 2.21832 13.3476 0 9.91551 0 Z M5.21259 2.61661 L5.18 2.61661 C5.19043 2.59857 5.20607 2.58181 5.21259 2.56376 L5.21259 2.61661 Z" transform="translate(28.3414, 27.4525)"/>
+      <path style="fill:#161413; fill-rule:evenodd;stroke:none;" d="M0 0 L5.2165 0 L5.2165 15.5205 L0 15.5205 L0 0 Z" transform="translate(20.2338, 27.8186)"/>
+      <path style="fill:#161413; fill-rule:nonzero;stroke:none;" d="M32.36 0 C14.5168 0 0 14.3553 0 32 C0 49.6434 14.5168 64 32.36 64 C50.2019 64 64.72 49.6434 64.72 32 C64.72 14.3553 50.2045 0 32.36 0 Z M49.5202 46.4739 C49.5202 47.835 48.3784 48.9358 46.9667 48.9358 L17.533 48.9358 C16.1253 48.9358 14.9821 47.835 14.9821 46.4739 L14.9821 17.0286 C14.9821 15.6687 16.1253 14.5667 17.533 14.5667 L46.9667 14.5667 C48.3771 14.5667 49.5202 15.67 49.5202 17.0286 L49.5202 46.4739 Z" transform="translate(0, 0)"/>
+      <path style="fill:#161413; fill-rule:nonzero;stroke:none;" d="M2.95106 0 C1.16791 0 0 1.1575 0 2.68106 C0 4.16982 1.13272 5.36212 2.88198 5.36212 L2.91587 5.36212 C4.73551 5.36212 5.86823 4.16982 5.86823 2.68106 C5.83304 1.15879 4.73682 0 2.95106 0 Z" transform="translate(19.9262, 20.3361)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

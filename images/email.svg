@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="64pt" viewBox="0 0 64 64" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs/>
+ <g id="Background">
+  <path style="fill:#161413; fill-rule:nonzero;stroke:none;" d="M32 0 C14.3268 0 0 14.3268 0 32 C0 49.6732 14.3268 64 32 64 C49.6732 64 64 49.6732 64 32 C64 14.3268 49.6732 0 32 0 Z M46.4169 17.7778 L31.9881 29.1846 L17.0901 17.7778 L46.4169 17.7778 Z M47.9013 46.2222 L15.605 46.2222 L15.605 22.5953 L30.4921 33.8871 C30.8913 34.1923 31.4818 34.3449 31.9579 34.3449 C32.4453 34.3449 32.8684 34.1849 33.272 33.8661 L47.9013 22.2287 L47.9013 46.2222 Z" transform="translate(0, 0)"/>
+ </g>
+</svg>
