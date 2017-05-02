@@ -1,0 +1,22 @@
+ratios 42.5
+
+header font: 85 -> 2em
+
+
+h1
+ron maxedon / work together 50 ->  1.18
+
+h2
+i am full stack / serious slinkies 30 -> .705
+
+
+h3
+hey my name is 30 -> .705
+
+
+
+
+85 -> 3 =
+50
+30
+18
