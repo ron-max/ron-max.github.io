@@ -5,10 +5,9 @@
 }
 	
 label {
-font-weight: 400;	
-font-family: 'Montserrat', sans-serif;	
 	font-size: 1.875em !important;
 	}
+
 .fs85 {
 	font-size: 6em !important;
 }
@@ -27,6 +26,27 @@ font-family: 'Montserrat', sans-serif;
 	    padding-top: 0% !important;
     padding-bottom: 0% !important;
 }
+}
+
+label {
+font-weight: 400 !important;	
+font-family: 'Montserrat', sans-serif;	
+	font-size: 1em !important;
+	
+	padding-bottom: .5em;
+	}
+
+
+
+button {
+	font-family: 'Montserrat', sans-serif !important;
+	background-color: rgb(67,80,90) !important;
+	border-color: rgb(67,80,90) !important;
+	font-weight: 500 !important;
+	font-size: 1em !important;
+	margin-top: .75em;
+	
+
 }
 
 img, embed, object, video { max-width: 100%;}
@@ -52,7 +72,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .fw400 {
-font-weight: 400;
+font-weight: 400 !important;
 }
 
 .fw500 {
