@@ -26,6 +26,14 @@ label {
 	    padding-top: 0% !important;
     padding-bottom: 0% !important;
 }
+
+#aboutBox {
+    margin: 4% 0% 4% 0% !important;
+}
+#contactBox {
+	margin: 4% 0% 4% 0% !important;
+}
+
 }
 
 label {
@@ -44,8 +52,8 @@ button {
 	border-color: rgb(67,80,90) !important;
 	font-weight: 500 !important;
 	font-size: 1em !important;
-	margin-top: .75em;
-	
+	margin-top: .85em;
+border-radius:0px !important;	
 
 }
 
@@ -138,7 +146,7 @@ background-color: rgb(255,255,255);
 }
 
 #aboutBox {
-	margin: 4% 0% 4% 0%;
+	margin: 4% 0% 8% 0%;
 }
 
  #aboutFace {
@@ -160,7 +168,7 @@ background-color: rgb(212,214,215);
 }
 
 #contactBox {
-	margin: 4% 0% 4% 0%;
+	margin: 8% 0% 4% 0%;
 }
 
 #form {
