@@ -7,14 +7,19 @@
 	font-size: 6em !important;
 }
 .fs50 {
-	font-size: 5em !important;
+	font-size: 3.75em !important;
 
 }
 .fs30 { 
 	font-size: 2.5em !important;
  }
 .fs18 { 
-	font-size: 2.5em !important;
+	font-size: 1.875em !important;
+}
+	#aboutFace {
+	
+	    padding-top: 0% !important;
+    padding-bottom: 0% !important;
 }
 }
 
@@ -23,9 +28,9 @@ img, embed, object, video { max-width: 100%;}
 body {
 	line-height: 1.1;
 }
-/*div {
+div {
     border:1px solid black;
-}*/
+}
 
 h1, h2, h3, h4 {
     margin-top: 0%;
@@ -132,6 +137,9 @@ background-color: rgb(212,214,215);
 	margin: 4% 0% 4% 0%;
 }
 
+#form {
+	    margin: 4% 0% 4% 0%;
+}
 #footer {
 background-color: rgb(66,79,89);
 }
