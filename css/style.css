@@ -57,6 +57,10 @@ border-radius:0px !important;
 
 }
 
+#submit:hover {
+	color: rgb(175,197,209) !important;
+}
+
 img, embed, object, video { max-width: 100%;}
 
 body {
