@@ -39,8 +39,8 @@ label {
 label {
 font-weight: 400 !important;	
 font-family: 'Montserrat', sans-serif;	
-	font-size: 1em !important;
-	
+	font-size: .8em !important;
+	margin-bottom: 0em;
 	padding-bottom: .5em;
 	}
 
@@ -204,7 +204,12 @@ margin-bottom: .5em; }
 
 .social {
 	display: inline-block;
-	max-width: 19%;
+	max-width: 15%;
+	padding: 1%;
 }
 
 
+
+#socialicons {
+	text-align: right;
+}
