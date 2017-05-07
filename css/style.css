@@ -34,6 +34,10 @@ label {
 	margin: 4% 0% 4% 0% !important;
 }
 
+#socialicons {
+	text-align: right !important;
+}
+
 }
 
 label {
@@ -211,5 +215,5 @@ margin-bottom: .5em; }
 
 
 #socialicons {
-	text-align: right;
+	text-align: center;
 }
