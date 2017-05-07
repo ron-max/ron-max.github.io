@@ -217,3 +217,26 @@ margin-bottom: .5em; }
 #socialicons {
 	text-align: center;
 }
+
+h5 {
+    overflow: hidden;
+    text-align: center;
+}
+h5:before,
+h5:after {
+    background-color: rgb(175,197,209);
+    content: "";
+    display: inline-block;
+    height: 3.5px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+}
+h5:before {
+    right: 0.5em;
+    margin-left: -50%;
+}
+h5:after {
+    left: 0.5em;
+    margin-right: -50%;
+}
